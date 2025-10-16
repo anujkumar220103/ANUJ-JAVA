@@ -1,3 +1,4 @@
+ // anonymous inner class
  abstract class Car{
 
   public abstract void pressBreak();
